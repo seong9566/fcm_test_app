@@ -1,0 +1,5 @@
+{
+  // Flutter SDK 경로를 fvm에서 관리하는 버전으로 지정
+  "dart.flutterSdkPath": "~/fvm/versions/3.32.4",
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
